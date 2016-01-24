@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
+ <title>J!nGanG</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-01-24T18:27:43+08:00</updated>
+ <updated>2016-01-24T22:27:13+08:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>J!nGanG</name>
+   <email>jingang0121@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>开张了</title>
+   <link href="http://lanyon.getpoole.com/2016/01/24/%E5%BC%80%E5%BC%A0%E4%BA%86.html"/>
+   <updated>2016-01-24T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/2016/01/24/开张了</id>
+   <content type="html">&lt;h3 id=&quot;github&quot;&gt;折腾下github，准备开始回归了，哈哈哈&lt;/h3&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Lanyon</title>
